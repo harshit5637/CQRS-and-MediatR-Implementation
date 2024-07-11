@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\handlers\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\handlers\\getstudentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\handlers\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\handlers\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\handlers\\getstudentbyidhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\handlers\\getstudentbyidhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\handlers\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\queries\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\queries\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\queries\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\queries\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\cqrsandmediatr_implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\migrations\\20240624091415_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\migrations\\20240624091415_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\migrations\\dbcontextclassmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\migrations\\dbcontextclassmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\handlers\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\handlers\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\cqrsandmediatr_implementation\\cqrsandmediatr_implementation\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6DF34E-1FD2-4123-97E7-564200B3B9AD}|CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj|solutionrelative:cqrsandmediatr_implementation\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:33:12.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:23:21.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Commands\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Commands\\CreateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Commands\\CreateStudentCommand.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Commands\\CreateStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:20:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\CreateStudentHandler.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Handlers\\CreateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\CreateStudentHandler.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Handlers\\CreateStudentHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:25:22.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\RegisterService.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\RegisterService.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\RegisterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:21:15.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetStudentListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\GetStudentListHandler.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Handlers\\GetStudentListHandler.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\GetStudentListHandler.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Handlers\\GetStudentListHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:27:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Program.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Program.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:46:10.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\appsettings.json",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\appsettings.json",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T08:33:53.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetStudentByIdHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\GetStudentByIdHandlers.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Handlers\\GetStudentByIdHandlers.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\GetStudentByIdHandlers.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Handlers\\GetStudentByIdHandlers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:26:33.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Handlers\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Handlers\\DeleteStudentHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:25:47.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Data\\DbContextClass.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Data\\DbContextClass.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Data\\DbContextClass.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Data\\DbContextClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:24:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetStudentListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Queries\\GetStudentListQuery.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Queries\\GetStudentListQuery.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Queries\\GetStudentListQuery.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Queries\\GetStudentListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:32:38.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetStudentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Queries\\GetStudentByIdQuery.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Queries\\GetStudentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Queries\\GetStudentByIdQuery.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Queries\\GetStudentByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:32:00.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Models\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Models\\StudentDetails.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Models\\StudentDetails.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Models\\StudentDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:28:12.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Commands\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Commands\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Commands\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Commands\\UpdateStudentCommand.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:21:13.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Commands\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Commands\\DeleteStudentCommand.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Commands\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Commands\\DeleteStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:20:43.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbContextClassModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Migrations\\DbContextClassModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Migrations\\DbContextClassModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Migrations\\DbContextClassModelSnapshot.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Migrations\\DbContextClassModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:57:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CQRSAndMediatR_Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T07:16:27.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240624091415_initial.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Migrations\\20240624091415_initial.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Migrations\\20240624091415_initial.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Migrations\\20240624091415_initial.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Migrations\\20240624091415_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:57:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Handlers\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Handlers\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Handlers\\UpdateStudentHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:27:36.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "CQRSAndMediatR_Implementation\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\CQRSAndMediatR_Implementation\\CQRSAndMediatR_Implementation\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "CQRSAndMediatR_Implementation\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:34:57.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
